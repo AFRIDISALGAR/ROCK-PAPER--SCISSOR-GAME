@@ -1,0 +1,19 @@
+Hello! I’m Shahid Afridi Salgar, a passionate and motivated MERN (MongoDB, Express.js, React, Node.js) full-stack web developer currently seeking internship opportunities to further enhance my skills and contribute to innovative projects. With a strong foundation in web development principles and a keen interest in creating dynamic, user-centric applications, I am excited to dive deeper into the tech industry and collaborate with like-minded professionals.
+
+🚀 Technical Skills:
+
+Frontend Development: Proficient in building responsive user interfaces using React.js, leveraging hooks and component-based architecture for optimal performance.
+Backend Development: Experienced in developing RESTful APIs with Express.js and managing data using MongoDB. I focus on creating efficient and scalable server-side applications.
+Version Control: Familiar with Git and GitHub, allowing for effective collaboration and version management on coding projects.
+Web Technologies: Comfortable with HTML, CSS, and JavaScript, along with frameworks like Bootstrap and Tailwind CSS to enhance UI/UX design.
+💻 My Journey: I started my journey in web development during [mention any relevant experience, like coursework, personal projects, or coding bootcamps]. This experience ignited my passion for technology and problem-solving. I enjoy tackling complex challenges and turning ideas into reality through code.
+
+In my recent projects, I’ve built [briefly describe a couple of notable projects, including what technologies you used and your specific contributions]. These experiences have not only sharpened my technical skills but also taught me the importance of teamwork, effective communication, and agile methodologies.
+
+🔍 Internship Goals: As I seek internship opportunities, I aim to work in a collaborative environment where I can apply my skills, learn from experienced developers, and contribute to meaningful projects. I am particularly interested in [mention any specific areas or types of projects you are drawn to, like e-commerce, social networking, etc.], as I believe these areas are crucial for the future of web development.
+
+🌱 Continuous Learning: I am committed to lifelong learning and staying updated with industry trends. I regularly participate in online courses, coding challenges, and tech meetups to enhance my skills and network with professionals. I’m currently exploring [mention any new technologies or frameworks you’re interested in learning], which I believe will further enhance my capabilities as a developer.
+
+🤝 Let’s Connect: I am eager to connect with professionals in the tech industry, share insights, and collaborate on exciting projects. Whether you’re a fellow developer, a recruiter, or just someone passionate about technology, I would love to hear from you!
+
+Feel free to reach out or connect with me here on LinkedIn. Let’s build something amazing together!
